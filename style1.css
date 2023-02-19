@@ -89,6 +89,17 @@ bottom: 25px;
 margin-left: 155px;
 }
 
+a i {
+  transition: all 0.3s linear;
+}
+
+a:hover i {
+
+transform: scale(1.4);
+}
+
+
+
 .card1 {
   border: 2px solid rgb(244, 244, 247);
   width: 120%;
